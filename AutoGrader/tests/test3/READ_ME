@@ -1,0 +1,12 @@
+StrengthenCellWall() Tests for various types of cell
+
+part1: Testing strengthening of a triangle cell                                         [2 points]
+part2: Testing strengthening of a square cell                                           [2 points]
+part3: Testing strengthening of a circle cell                                           [2 points]
+part4: Testing already strengthened triangle cell                                       [1 point]
+part5: Testing already strengthened circle cell                                         [1 point]
+part6: Testing strengthening of a unknown type of cell constructed only by bare Walls   [2 points]
+part7: Testing strengthening of a unknown type of cell constructed only by CurvyWalls   [2 points]
+part8: Testing strengthening of a unknown type of cell constructed by mixed walls       [3 points]
+
+Total: 15 points

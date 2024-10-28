@@ -1,0 +1,10 @@
+IsContinuousLinear() Tests for bare Wall and CurvyWall objects
+
+part1: Testing linear yet not continuous Wall objects   	[1 point]
+part2: Testing conitnuous yet non-linear Wall objects   	[1 point]
+part3: Testing continuous Wall and CurvyWall objects		[1 point]
+part4: Testing both linear and continuous Wall objects   	[1 point]
+part5: Testing continuous CurvyWall and Wall objects   		[2 points]
+part6: Testing continuous CurvyWall objects			[2 points]
+
+Total: 8 points

@@ -1,0 +1,10 @@
+operator+() Tests for bare Wall and CurvyWall objects
+
+part1: Testing summation of two joinable Wall objects                                           [2 points]
+part2: Testing summation of two non-joinable Wall objects                                       [1 point]
+part3: Testing summation of a Wall object with a CurvyWall object                               [2 points]
+part4: Testing summation of two joinable CurvyWall objects                                      [2 points]
+part5: Testing summation of two joinable CurvyWall objects which result in a complete Circle    [1 point]
+part6: Testing summation of a CurvyWall object with a Wall object                               [2 points]
+
+Total: 10 points

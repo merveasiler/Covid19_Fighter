@@ -1,0 +1,11 @@
+React() Tests for all types of microorganisms
+
+part1: Testing reaction of a triangular microorganism                                                                                       [4 points]
+part2: Testing reaction of a triangular microorganism which connects to a different cell & reacts again after reacting and killing a cell   [3 points]
+part3: Testing reaction of a squadratic microorganism which reacts twice in an ordinary square cell                                         [5 points]
+part4: Testing reaction of a squadratic microorganism which reacts twice in a diagonally positioned square cell                             [5 points]
+part5: Testing reaction of a squadratic microorganism which reacts many times in a diagonally positioned square cell                        [5 points]
+part6: Testing reaction of a circular microorganism which has two-piece cell wall                                                           [4 points]
+part7: Testing reaction of a circular microorganism which has one-piece cell wall                                                           [4 points]
+
+Total: 7+15+8=30 points

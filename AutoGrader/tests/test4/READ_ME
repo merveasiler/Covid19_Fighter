@@ -1,0 +1,13 @@
+DoesFitInto() Tests for all types of microorganisms
+
+part1: Testing fit of a triangular microorganism with a compatible cell                         [2 points]
+part2: Testing fit of a triangular microorganism with a non-compatible triangle cell            [2 points]
+part3: Testing fit of a triangular microorganism with a non-compatible unknown type of cell     [2 points]
+part4: Testing fit of a squadratic microorganism with a compatible cell                         [2 points]
+part5: Testing fit of a squadratic microorganism with a non-compatible squadratic cell          [2 points]
+part6: Testing fit of a squadratic microorganism with a non-compatible unknown type of cell     [2 points]
+part7: Testing fit of a circular microorganism with a compatible cell                           [2 points]
+part8: Testing fit of a circular microorganism with a non-compatible circular cell              [2 points]
+part9: Testing fit of a circular microorganism with a non-compatible unknown type of cell       [2 points]
+
+Total: 6+6+6=18 points
